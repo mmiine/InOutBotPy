@@ -1,0 +1,5 @@
+google-auth-oauthlib
+oauth2client
+discord.py==1.6.0
+python-dotenv==0.15.0
+gspread==3.7.0
